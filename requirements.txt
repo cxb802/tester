@@ -3,9 +3,13 @@ matplotlib==3.8.2
 seaborn==0.13.2
 
 
+HEAD
 klajshdøflka
 ahdgækajhgæ
 aosidhgfæal
+Hej jeg tilføæjer lkjnoogel ændringer 
+Her
+a59d40d7806d7f89ac5164cacc8530b51f6747f1
 
 
 
